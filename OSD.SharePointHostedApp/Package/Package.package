@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="2222e02e-1589-4872-9063-66b1fd98eee3" 
+        solutionId="2222e02e-1589-4872-9063-66b1fd98eee3" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="OSD.SharePointHostedApp"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="86e449b1-553c-4c5d-8d26-c9c3ab299fd8" />
+  </features>
+</package>

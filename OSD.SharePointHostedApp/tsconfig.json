@@ -1,0 +1,19 @@
+﻿{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "types": [],
+    "sourceMap": true,
+    "module": "amd",
+    "target": "es5",
+    "noEmitOnError": true,
+    "noImplicitAny": false,
+    "outDir": "./dist",
+    "moduleResolution": "node",
+    "skipLibCheck": true
+  }, 
+  "exclude": [
+    "node_modules",
+    "obj",
+    "bin"
+  ]
+}

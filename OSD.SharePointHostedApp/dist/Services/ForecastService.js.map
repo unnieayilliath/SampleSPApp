@@ -1,0 +1,1 @@
+{"version":3,"file":"ForecastService.js","sourceRoot":"","sources":["../../App/Services/ForecastService.ts"],"names":[],"mappings":";;IAGA;QACI;QACA,CAAC;QACD,MAAM,CAAC,oBAAoB,CAAC,IAAY;YACpC,eAAG,CAAC,EAAE,CAAC,QAAQ,CAAC,WAAW,CAAC,IAAI,CAAC,UAAU,MAAM;gBAC9C,cAAc;YACjB,CAAC,CAAC,CAAC;QACP,CAAC;KACJ;IARD,0CAQC"}

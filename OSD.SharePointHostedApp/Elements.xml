@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="RootModule">
+    <File Path="tsconfig.json" Url="tsconfig.json" ReplaceContent="TRUE" />
+    <File Path="App\app.ts" Url="App/app.ts" ReplaceContent="TRUE" />
+    <File Path="App\services\forecastservice.ts" Url="App/services/forecastservice.ts" ReplaceContent="TRUE" />
+    <File Path="App\models\forecast.ts" Url="App/models/forecast.ts" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

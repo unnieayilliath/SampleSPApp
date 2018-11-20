@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="dist">
+    <File Path="dist\Services\ForecastService.js" Url="dist/Services/ForecastService.js" ReplaceContent="TRUE" />
+    <File Path="dist\Services\ForecastService.js.map" Url="dist/Services/ForecastService.js.map" ReplaceContent="TRUE" />
+    <File Path="dist\Models\Forecast.js" Url="dist/Models/Forecast.js" ReplaceContent="TRUE" />
+    <File Path="dist\Models\Forecast.js.map" Url="dist/Models/Forecast.js.map" ReplaceContent="TRUE" />
+    <File Path="dist\app.js" Url="dist/app.js" ReplaceContent="TRUE" />
+    <File Path="dist\app.js.map" Url="dist/app.js.map" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

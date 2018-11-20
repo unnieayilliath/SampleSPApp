@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "name": "OSD.SharePointHostedApp",
+  "private": true,
+  "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/sharepoint": "^2013.1.6",
+    "typescript": "^3.1.6"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "@pnp/pnpjs": "^1.2.5",
+    "chai": "^4.2.0"
+  }
+}
